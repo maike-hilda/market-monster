@@ -12,3 +12,6 @@ JavaScript: Chris, Nathan
 Stock APIs: Nick
 
 Authentication/Routing: Maike
+
+This application was built using:
+HTML, CSS, JavaScript, jQuery, node, Express, mySQL
