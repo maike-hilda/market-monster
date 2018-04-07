@@ -6,6 +6,9 @@ http://market-monster.herokuapp.com/
 Roles:
 
 Frontend/Design: Kristine, Nathan 
+
 JavaScript: Chris, Nathan
+
 Stock APIs: Nick
+
 Authentication/Routing: Maike
